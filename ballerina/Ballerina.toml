@@ -1,0 +1,7 @@
+[ballerina]
+org = "akindu"
+version = "0.1.0"
+
+[[platform.libraries]]
+module = "task_distributor"
+path = "./src/task_distributor"
